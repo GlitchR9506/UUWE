@@ -1,0 +1,6 @@
+LIBRARY KERNELUU
+
+EXPORTS
+  CreateProcessA             = UUWE_KERNEL32__CreateProcessA		; NT
+  GetVersionExW              = UUWE_KERNEL32__GetVersionExW         ;
+  GetProcAddress             = UUWE_KERNEL32__GetProcAddress        ;

@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+/KERNELUU/Release/KERNELUU.tlog
+/KERNELUU/x64/Release/KERNELUU.tlog
+/KERNELUU/Release
+/KERNELUU/x64/Release
+/LDR/Release
+/LDR/x64
+/Release
+/UUWEDLL/x64/Debug
+/Win32/Release
+/x64
+/x86/Release
+/.vs/UUWE
